@@ -1,0 +1,8 @@
+#Globals
+## Screen 
+FRAMES_PER_SECOND = 60
+SIZE = WIDTH, HEIGHT = 1024, 768
+
+## Colors
+GREEN = 0, 200, 0
+WHITE = 255, 255, 255
